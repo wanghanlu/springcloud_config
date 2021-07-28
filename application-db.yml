@@ -1,9 +1,4 @@
-spring:
-  datasource:
-#   数据源基本配置
-    username: yanhongli
-    password: 123456789
-    driver-class-name: org.gjt.mm.mysql.Driver
-    url: jdbc:mysql:///cloud2020?useUnicode=true&characterEncoding=utf-8&useSSL=false
-    type: com.alibaba.druid.pool.DruidDataSource
-    initialization-mode: never
+sping:
+  datasourse:
+    username: '123123'
+    password: '123123'
