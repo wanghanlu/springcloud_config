@@ -1,4 +1,4 @@
-sping:
+spring:
   datasourse:
     username: '123123'
     password: '123123'
